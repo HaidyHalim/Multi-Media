@@ -1,0 +1,15 @@
+D:\Desktop\SoSo\SoSo\bin\Debug\SoSo.exe.config
+D:\Desktop\SoSo\SoSo\bin\Debug\SoSo.exe
+D:\Desktop\SoSo\SoSo\bin\Debug\SoSo.pdb
+D:\Desktop\SoSo\SoSo\obj\Debug\SoSo.csprojAssemblyReference.cache
+D:\Desktop\SoSo\SoSo\obj\Debug\SoSo.Form1.resources
+D:\Desktop\SoSo\SoSo\obj\Debug\SoSo.Properties.Resources.resources
+D:\Desktop\SoSo\SoSo\obj\Debug\SoSo.csproj.GenerateResource.cache
+D:\Desktop\SoSo\SoSo\obj\Debug\SoSo.csproj.CoreCompileInputs.cache
+D:\Desktop\SoSo\SoSo\obj\Debug\SoSo.exe
+D:\Desktop\SoSo\SoSo\obj\Debug\SoSo.pdb
+D:\Desktop\SoSo\SoSo\obj\Debug\SoSo.Form2.resources
+D:\Desktop\SoSo\SoSo\obj\Debug\SoSo.Form3.resources
+D:\Desktop\SoSo\SoSo\obj\Debug\SoSo.Form4.resources
+D:\Desktop\SoSo\SoSo\obj\Debug\SoSo.Form5.resources
+D:\Desktop\SoSo\SoSo\obj\Debug\SoSo.Form6.resources
